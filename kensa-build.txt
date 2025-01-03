@@ -1,3 +1,7 @@
 Goals
 1. Fortofolio
 2. Project React
+
+Front - End IDCAMP
+1. BOM - DOM
+2. Event - Handler
